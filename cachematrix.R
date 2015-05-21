@@ -1,5 +1,5 @@
 makeCacheMatrix <- function(x = matrix()) {
-    inv <- NULL
+     inv <- NULL
     
     setmat <- function(mymat) {
         x <<- mymat
